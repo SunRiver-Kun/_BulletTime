@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome.unity
+    guid: cfe3dd9f71a4d184eb374c805e9783ff
+  - enabled: 1
+    path: Assets/Scenes/Teach/level0.unity
+    guid: 4f9500f6079179a41bf3dea50f9371a2
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
+    guid: 3343bd7cc6aa3e245ac6041660db12a2
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: d642da7704de05c4e94fa52a6bb446e7
+  - enabled: 1
+    path: Assets/Scenes/ICE.unity
+    guid: 757b07f9b14f4bb4d85e9cc80a41e6e9
+  - enabled: 1
+    path: Assets/Scenes/Light/Level_Night_1.unity
+    guid: 4e6c437e5ac69874b8a520aaae60ab0c
+  - enabled: 1
+    path: Assets/Scenes/Light/Level_Night_2.unity
+    guid: a6c592dc1a4b86b4c89b0b39d297025e
+  - enabled: 1
+    path: Assets/Scenes/Light/Level_Night_3.unity
+    guid: d89f23ffbdbb8bc41b69892f33e66b10
+  - enabled: 1
+    path: Assets/Scenes/Light/Level_Night_4.unity
+    guid: 9b3f3ee50029fc54eb27a678ecd64d53
+  - enabled: 1
+    path: Assets/Scenes/Wind/Wind.unity
+    guid: d76fc64a511d7ec42ac266410f294b75
+  - enabled: 1
+    path: Assets/Scenes/Wind/Wind2.unity
+    guid: f726fcceba4776f4489662446dc61c71
+  - enabled: 1
+    path: Assets/Scenes/LastSense/LastSense.unity
+    guid: 1ae9309f9b7f6904682408f4cd4b7b0c
+  - enabled: 1
+    path: Assets/Scenes/LastLevel/TimeBullet.unity
+    guid: fa4042c1707c41945bb73044318e22e9
+  - enabled: 1
+    path: Assets/Scenes/realrealend/Lastbullet.unity
+    guid: e30b0f668dad1b547aca36363f53d6f9
+  m_configObjects: {}
